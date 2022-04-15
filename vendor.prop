@@ -1,3 +1,6 @@
+# Bluetooth
+bluetooth.device.default_name=realme X50 Pro 5G
+
 # Crypto
 ro.crypto.allow_encrypt_override=true
 
