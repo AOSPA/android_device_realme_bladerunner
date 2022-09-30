@@ -17,10 +17,10 @@
 # Include the common OEM chipset BoardConfig.
 include device/realme/sm8250-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/realme/bitra
+DEVICE_PATH := device/realme/bladerunner
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := RE5473,RE879AL1,bitra
+TARGET_OTA_ASSERT_DEVICE := RMX2071L1,RMX2075L1,RMX2076L1,bladerunner
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include

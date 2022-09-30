@@ -8,7 +8,7 @@
 
 set -e
 
-export DEVICE=bitra
+export DEVICE=bladerunner
 export DEVICE_COMMON=sm8250-common
 export VENDOR=realme
 

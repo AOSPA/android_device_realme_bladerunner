@@ -4,7 +4,7 @@
     "target_path": "device/realme/sm8250-common"
   },
   {
-    "repository": "android_vendor_realme_bitra",
-    "target_path": "vendor/realme/bitra"
+    "repository": "android_vendor_realme_bladerunner",
+    "target_path": "vendor/realme/bladerunner"
   }
 ]

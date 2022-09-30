@@ -27,7 +27,7 @@
     OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
     IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 -->
-<!-- project:18097 -->
+<!-- project:19795 -->
 
 <device name="Android">
   <!-- Most values are the incremental current used by a feature,
@@ -96,7 +96,7 @@
   <array name="cpu.clusters.cores">
       <value>4</value> <!-- cluster 0 has cpu0, cpu1, cpu2, cpu3 -->
       <value>3</value> <!-- cluster 1 has cpu4, cpu5, cpu6 -->
-      <value>1</value> <!-- cluster 2 has cpu7 -->
+      <value>1</value> <!-- cluster 1 has cpu7 -->
   </array>
 
     <!-- Different CPU speeds for cluster 0 as reported in
@@ -166,7 +166,6 @@
       <value>2649600   </value>  <!-- 2649.6  MHz CPU speed -->
       <value>2745600   </value>  <!-- 2745.6  MHz CPU speed -->
       <value>2841600 </value>  <!-- 2841.6  MHz CPU speed -->
-      <value>3187200 </value>  <!-- 3187.2  MHz CPU speed -->
   </array>
 
   <!-- Current at each CPU speed for cluster 0, as per 'cpu.speeds.cluster0'.
@@ -254,7 +253,7 @@
   </array>
 
   <!-- This is the battery capacity in mAh (measured at nominal voltage) -->
-  <item name="battery.capacity">5000</item>
+  <item name="battery.capacity">4200</item>
 
   <!-- Wifi related values. -->
   <!-- Idle Receive current for wifi radio in mA. 0 by default-->
