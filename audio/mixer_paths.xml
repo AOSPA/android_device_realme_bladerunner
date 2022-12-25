@@ -4225,6 +4225,11 @@
         <path name="compress-offload-playback bt-a2dp" />
     </path>
 
+    <path name="compress-offload-playback2 headphones-and-bt-a2dp">
+        <path name="compress-offload-playback2 headphones" />
+        <path name="compress-offload-playback2 bt-a2dp" />
+    </path>
+
     <path name="low-latency-playback headphones-and-bt-a2dp">
         <path name="low-latency-playback headphones" />
         <path name="low-latency-playback bt-a2dp" />
