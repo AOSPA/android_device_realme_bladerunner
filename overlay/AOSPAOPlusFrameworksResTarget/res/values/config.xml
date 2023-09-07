@@ -17,6 +17,6 @@
 <resources>
 
     <!-- Fingerprint from stock ROM -->
-    <string name="config_stockFingerprint" translatable="false">realme/RMX2076/RMX2076L1:12/RKQ1.211103.002/Q.e3b1e0_c-490d:user/release-keys</string>
+    <string name="config_stockFingerprint" translatable="false">realme/RMX2076/RMX2076L1:12/RKQ1.211103.002/Q.129f5f8_3c4-60e2f:user/release-keys</string>
 
 </resources>
