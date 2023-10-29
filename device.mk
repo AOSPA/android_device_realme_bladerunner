@@ -52,7 +52,7 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResBladerunner \
     OPlusSettingsProviderResBladerunner_48m \
-    OPlusSystemUIResTarget
+    OPlusSettingsResTarget
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
