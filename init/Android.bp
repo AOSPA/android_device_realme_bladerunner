@@ -1,0 +1,11 @@
+//
+// Copyright (C) 2023 Paranoid Android
+// SPDX-License-Identifier: Apache-2.0
+//
+
+prebuilt_etc {
+    name: "init.oplus.overlay.rc",
+    src: "init.oplus.overlay.rc",
+    sub_dir: "init",
+    vendor: true,
+}
