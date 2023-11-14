@@ -87,9 +87,6 @@ odm/firmware/fastchg/19795/oplus_vooc_fw.bin
 odm/firmware/fastchg/20607/oplus_vooc_fw.bin
 
 # Display calibration data
-vendor/etc/ltm_config_19795_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
-vendor/etc/ltm_config_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
-vendor/etc/ltm_config_samsung_AMS678UW01_qhd_panel.xml
 vendor/etc/qdcm_calib_data_19795_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
 vendor/etc/qdcm_calib_data_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
 vendor/etc/qdcm_calib_data_samsung_AMS678UW01_qhd_panel.xml
