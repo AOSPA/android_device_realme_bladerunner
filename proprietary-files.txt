@@ -88,8 +88,6 @@ odm/firmware/fastchg/20607/oplus_vooc_fw.bin
 
 # Display calibration data
 vendor/etc/qdcm_calib_data_19795_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
-vendor/etc/qdcm_calib_data_samsung_AMS678UW01_dsc_cmd_mode_panel.xml
-vendor/etc/qdcm_calib_data_samsung_AMS678UW01_qhd_panel.xml
 
 # Fingerprint firmware
 odm/vendor/firmware/goodixfp.b00
