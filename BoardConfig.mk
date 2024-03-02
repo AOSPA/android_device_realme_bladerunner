@@ -22,9 +22,6 @@ DEVICE_PATH := device/realme/bladerunner
 # Assert
 TARGET_OTA_ASSERT_DEVICE := RMX2071CN,RMX2072CN,RMX2075L1,RMX2076L1,bladerunner
 
-# HIDL
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
-
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
